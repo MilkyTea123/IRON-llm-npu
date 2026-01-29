@@ -1,4 +1,5 @@
 # On the AMD AUP Cloud
+Run `setup.sh` or the commands below.
 ```
 source /notebooks/mlir-aie/utils/build_drivers.sh
 cd /notebooks/IRON
