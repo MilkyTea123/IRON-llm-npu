@@ -1,3 +1,10 @@
+# On the AMD AUP Cloud
+```
+source /notebooks/mlir-aie/utils/build_drivers.sh
+cd /notebooks/IRON
+source ironenv/bin/activate
+```
+
 <!--
 SPDX-FileCopyrightText: Copyright (C) 2025 Advanced Micro Devices, Inc. All rights reserved.
 SPDX-License-Identifier: Apache-2.0
